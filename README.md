@@ -1,7 +1,7 @@
 # TicTacToe Game (bash)
 
-This is the Tic-tac-toe game written in Bash script (sh shell script)
-You can run it under any shell environment supporting bash (like almost all Linux and Mac)
+This is the Tic-tac-toe game written in Bash script (sh shell script) <br>
+You can run it under any shell environment supporting bash (almost all Linux and Mac)
 
 ## Description
 
