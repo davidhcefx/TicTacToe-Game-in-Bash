@@ -13,5 +13,6 @@ Besides, every input is also wrapped up in a while loop, so that it continues on
 
 After all, in my opinion, the core of this game was the use of Array in bash, the assigning and dereferencing of it. <br>
 
-Screenshot:
-![Snapshot](/screenshot.png)
+## Screenshot
+
+![Snapshot](screenshot.png)
